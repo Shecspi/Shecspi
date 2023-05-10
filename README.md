@@ -13,6 +13,8 @@
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+[![codewars](https://www.codewars.com/users/Shecspi/badges/large)](https://www.codewars.com/users/Shecspi)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shecspi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shecspi)](https://git.io/streak-stats)
