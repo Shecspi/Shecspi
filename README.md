@@ -5,7 +5,14 @@
 
 ## About me
 I am a Python developer from Moscow, Russia.  
-Some useful and fun text should be here
+Some useful and fun text should be here  
+  
+:computer: I am currently working on Moi Goroda project  
+:clock1: I have previously developed projects:  
+- Image Renamer - bulk image renaming application based on EXIF-data  
+- Running-Alien - game  
+
+:earth_americas: I speak English  
 
 ## About my skills and tools
 **Languages:**
