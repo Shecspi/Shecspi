@@ -7,10 +7,10 @@
 I am a Python developer from Moscow, Russia.  
 Some useful and fun text should be here  
   
-:computer: I am currently working on Moi Goroda project  
-:clock1: I have previously developed projects:  
-- Image Renamer - bulk image renaming application based on EXIF-data  
-- Running-Alien - game  
+:computer: I am currently working on the [Moi Goroda project](https://github.com/Shecspi/MoiGoroda)  
+:clock1: I have previously developed the projects:  
+- [Image Renamer](https://github.com/Shecspi/ImageRenamer) - bulk image renaming application based on EXIF-data  
+- [Running-Alien](https://github.com/Shecspi/Running-Alien) - platformer game  
 
 :earth_americas: I speak English  
 
