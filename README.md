@@ -11,7 +11,7 @@ I am a Python developer from Moscow, Russia.
 - [Image Renamer](https://github.com/Shecspi/ImageRenamer) - bulk image renaming application based on EXIF-data;  
 - [Running-Alien](https://github.com/Shecspi/Running-Alien) - a small platformer game about a running alien who needs to be helped to jump over obstacles.  
 
-:books:I have read books:
+:books: I have read books:
 * Mark Lutz - **Learning Python, 5th Edition**
 * Luciano Ramalho - **Fluent Python, 2nd Edition**
 * Aditya Bhargava - **Grokking Algorithms**  
