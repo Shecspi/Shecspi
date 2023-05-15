@@ -1,16 +1,20 @@
 <h1>
-  ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔼𝕘𝕠𝕣 𝕍𝕒𝕧𝕚𝕝𝕠𝕧
+  Hi there! I am Egor Vavilov!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
 ## About me
 I am a Python developer from Moscow, Russia.  
-Some useful and fun text should be here  
   
-:computer: I am currently working on the [Moi Goroda project](https://github.com/Shecspi/MoiGoroda)  
+:computer: I am currently working on the [Moi Goroda project](https://github.com/Shecspi/MoiGoroda). It is a web-site for monitoring visited cities, which has been operating for more than six months.  
 :clock1: I have previously developed the projects:  
-- [Image Renamer](https://github.com/Shecspi/ImageRenamer) - bulk image renaming application based on EXIF-data  
-- [Running-Alien](https://github.com/Shecspi/Running-Alien) - platformer game  
+- [Image Renamer](https://github.com/Shecspi/ImageRenamer) - bulk image renaming application based on EXIF-data;  
+- [Running-Alien](https://github.com/Shecspi/Running-Alien) - a small platformer game about a running alien who needs to be helped to jump over obstacles.  
+
+:books:I have read books:
+* Mark Lutz - **Learning Python, 5th Edition**
+* Luciano Ramalho - **Fluent Python, 2nd Edition**
+* Aditya Bhargava - **Grokking Algorithms**  
 
 :earth_americas: I speak English  
 
