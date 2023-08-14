@@ -49,13 +49,13 @@ I am a Python developer from Moscow, Russia.
   </a>
 </div>
 
-<h3>My statistic:</h3>
+## My statistic:
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shecspi&show_icons=true&locale=en&layout=compact" alt="shecspi" />
   &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shecspi&" alt="shecspi" />
 </p>
 
-<h3>My CodeWars result:</h3>
+## My Leetcode result:
 
-[![codewars](https://www.codewars.com/users/Shecspi/badges/large)](https://www.codewars.com/users/Shecspi)
+![LeetCode Stats](https://leetcode.card.workers.dev/shecspi?theme=default&font=baloo&extension=null)
