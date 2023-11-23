@@ -14,7 +14,8 @@ I am a Python developer from Moscow, Russia.
 :books: I have read books:
 * Mark Lutz - **Learning Python, 5th Edition**
 * Luciano Ramalho - **Fluent Python, 2nd Edition**
-* Aditya Bhargava - **Grokking Algorithms**  
+* Aditya Bhargava - **Grokking Algorithms**
+* Е.П.Моргунов, **PostgreSQL. Основы языка SQL**
 
 :earth_americas: I speak English  
 
