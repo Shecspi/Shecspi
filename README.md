@@ -6,18 +6,18 @@
 ## About me
 I am a Python developer from Moscow, Russia.  
   
-:computer: I am currently working on the [Moi Goroda project](https://github.com/Shecspi/MoiGoroda). It is a web-site for monitoring visited cities.  
-:clock1: I have previously developed the projects:  
+I am currently working on the [Moi Goroda project](https://github.com/Shecspi/MoiGoroda). It is a web-site for monitoring visited cities.  
+I have previously developed the projects:  
 - [Image Renamer](https://github.com/Shecspi/ImageRenamer) - bulk image renaming application based on EXIF-data;  
 - [Running-Alien](https://github.com/Shecspi/Running-Alien) - a small platformer game about a running alien who needs to be helped to jump over obstacles.  
 
-:books: I have read books:
+I have read books:
 * Mark Lutz - **Learning Python, 5th Edition**
 * Luciano Ramalho - **Fluent Python, 2nd Edition**
 * Aditya Bhargava - **Grokking Algorithms**
 * Е.П.Моргунов, **PostgreSQL. Основы языка SQL**
 
-:earth_americas: I speak English  
+I speak English.  
 
 ## About my skills and tools
 **Languages:**
