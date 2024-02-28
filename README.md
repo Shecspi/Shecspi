@@ -1,33 +1,38 @@
 <h1>
-  Hi there! I am Egor Vavilov!
+  Всем привет! Меня зовут Вавилов Егор.
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-## About me
-I am a Python developer from Moscow, Russia.  
-  
-I am currently working on the [Moi Goroda project](https://github.com/Shecspi/MoiGoroda). It is a web-site for monitoring visited cities.  
-I have previously developed the projects:  
-- [Image Renamer](https://github.com/Shecspi/ImageRenamer) - bulk image renaming application based on EXIF-data;  
-- [Running-Alien](https://github.com/Shecspi/Running-Alien) - a small platformer game about a running alien who needs to be helped to jump over obstacles.  
+Я - Python разработчик из Москвы, Россия.  
 
-I have read books:
-* Mark Lutz - **Learning Python, 5th Edition**
-* Luciano Ramalho - **Fluent Python, 2nd Edition**
-* Aditya Bhargava - **Grokking Algorithms**
+## Мои проекты    
+- [Мои города](https://github.com/Shecspi/MoiGoroda). На данный момент я работаю над своим собственным проектом под названием "Мои города". Это веб-сайт, который позволяет людям, путешествующим по России, сохранять свои посещённые города, просматривать их на карте и производить анализ своих путешествий. Посмотреть, как сайт выглядит можно по адресу [https://moi-goroda.ru](https://moi-goroda.ru/).   
+- [Image Renamer](https://github.com/Shecspi/ImageRenamer). Программа для массового переименования изображений и видеофайлов на основе информации, хранящейся в EXIF-данных файла.
+- [Running-Alien](https://github.com/Shecspi/Running-Alien). Небольшая игра-платформер, написанная с использованием библиотеки PyGame. 
+
+## Прочитанные книги
+* Марк Лутц - **Изучаем Python. 5 издание (1 и 2 том)**
+* Лусиану Ромальо - **Python. К вершинам мастерства. 2 издание**
+* Мэттью Фаулер - **Asyncio и конкурентное программирование на Python**
+* Роберт Мартин - **Чистая архитектура**
+* Гарри Персиваль, Боб Грегори - **Паттерны разработки на Python**
+* Адитья Бхаргава - **Грокаем алгоритмы**
+* Брэдфорд Такфилд - **Алгоритмы неформально**
 * Е.П.Моргунов, **PostgreSQL. Основы языка SQL**
+* Влад Хононов - **Изучаем DDD - предметно-ориентированное проектирование**
 
-I speak English.  
+## Английский язык
+Уровень владения английским языком - B2 Upper-Intermediate
 
-## About my skills and tools
-**Languages:**
+## Мои навыки и инструменты, которые использую
+**Языки:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Tools:**
+**Инструменты:**
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
@@ -37,7 +42,7 @@ I speak English.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Ask and follow me here 
+## Связь со мной
   
 <div id="badges">
   <a href="your-twitter-URL">
@@ -51,13 +56,9 @@ I speak English.
   </a>
 </div>
 
-## My statistic:
+## Моя статистика
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shecspi&show_icons=true&locale=en&layout=compact" alt="shecspi" />
   &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shecspi&" alt="shecspi" />
 </p>
-
-## My Leetcode result:
-
-![LeetCode Stats](https://leetcode.card.workers.dev/shecspi?theme=default&font=baloo&extension=null)
